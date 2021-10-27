@@ -41,6 +41,6 @@
 [gitt]: https://github.com
 [postman]: https://www.postman.com
 [sasss]: https://sass-lang.com
-[website]: https://jawadraza-c270f.firebaseapp.com
+[website]: https://jawadraza-c270f.web.app
 [instagram]: https://www.instagram.com/muhammad_jawadraza_dev/
 [linkedin]: https://www.linkedin.com/in/muhammad-jawad-raza-119a23203/
